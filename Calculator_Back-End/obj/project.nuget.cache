@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wQe71rS3U0UQ+CduZtAYk7W/zIgoPSoT+cg9G9CABQUCcPX/m7SSYpVxueTCcwbCQVZBTTam2edjnNY0HnOf4A==",
+  "success": true,
+  "projectFilePath": "D:\\Lerning\\Calculator-WPF-main\\Calculator_Back-End\\Calculator_Back-End.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zigmu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zigmu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zigmu\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

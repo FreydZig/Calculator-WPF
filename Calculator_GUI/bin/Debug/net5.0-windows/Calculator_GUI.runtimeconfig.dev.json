@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\zigmu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\zigmu\\.nuget\\packages"
+    ]
+  }
+}

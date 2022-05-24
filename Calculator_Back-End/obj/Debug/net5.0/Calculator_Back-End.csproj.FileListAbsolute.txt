@@ -1,0 +1,12 @@
+D:\Lerning\Calculator-WPF-main\Calculator_Back-End\bin\Debug\net5.0\Calculator_Back-End.deps.json
+D:\Lerning\Calculator-WPF-main\Calculator_Back-End\bin\Debug\net5.0\Calculator_Back-End.dll
+D:\Lerning\Calculator-WPF-main\Calculator_Back-End\bin\Debug\net5.0\ref\Calculator_Back-End.dll
+D:\Lerning\Calculator-WPF-main\Calculator_Back-End\bin\Debug\net5.0\Calculator_Back-End.pdb
+D:\Lerning\Calculator-WPF-main\Calculator_Back-End\obj\Debug\net5.0\Calculator_Back-End.csproj.AssemblyReference.cache
+D:\Lerning\Calculator-WPF-main\Calculator_Back-End\obj\Debug\net5.0\Calculator_Back-End.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lerning\Calculator-WPF-main\Calculator_Back-End\obj\Debug\net5.0\Calculator_Back-End.AssemblyInfoInputs.cache
+D:\Lerning\Calculator-WPF-main\Calculator_Back-End\obj\Debug\net5.0\Calculator_Back-End.AssemblyInfo.cs
+D:\Lerning\Calculator-WPF-main\Calculator_Back-End\obj\Debug\net5.0\Calculator_Back-End.csproj.CoreCompileInputs.cache
+D:\Lerning\Calculator-WPF-main\Calculator_Back-End\obj\Debug\net5.0\Calculator_Back-End.dll
+D:\Lerning\Calculator-WPF-main\Calculator_Back-End\obj\Debug\net5.0\ref\Calculator_Back-End.dll
+D:\Lerning\Calculator-WPF-main\Calculator_Back-End\obj\Debug\net5.0\Calculator_Back-End.pdb
